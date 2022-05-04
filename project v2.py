@@ -68,7 +68,7 @@ def convertAddress(address, subnetMask):
 
     return (networkClass, defaultMask, defaultMaskBinary, subnetMaskBinary, numberOfSubnets, numberOfHosts)
 
-convertAddress(sys.argv[1])
+#convertAddress(sys.argv[1])
 
    
 
